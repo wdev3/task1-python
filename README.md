@@ -1,19 +1,21 @@
-# Gerenciador de Tarefas (Terminal)
-Código simples feito apenas como treino. A ideia era testar até onde eu conseguiria aplicar o que aprendi nas primeiras semanas estudando Python.
+# Task Manager (Terminal)
 
-Sobre
-Projeto feito sem pretensão de ser algo profissional.
+Simple code made just for training purposes. The idea was to test how far I could apply what I learned in the first weeks studying Python.
 
-Não é algo pra ser levado a sério, foi só um exercício pessoal de aprendizado.
+## About
 
-O código não será atualizado nem melhorado, é exatamente como foi feito no momento dos estudos.
+This project was created with no intention of being professional.
 
-Funcionalidades
-Adiciona tarefas com nome, descrição e dificuldade.
+It is not something to be taken seriously, it was just a personal learning exercise.
 
-Salva tudo em um arquivo .txt.
+The code will not be updated or improved; it is exactly as it was made at the time of learning.
 
-Feito apenas com conceitos básicos: variáveis, listas, funções, classes, condicionais, laços e manipulação de arquivos.
+## Features
 
-Aviso
-Esse código não tem nenhum tipo de tratamento avançado, nem organização de código profissional. É 100% um experimento de quem está começando (estou na segunda semana aprendendo python).
+- Add tasks with name, description, and difficulty.
+- Save everything in a .txt file.
+- Built only with basic concepts: variables, lists, functions, classes, conditionals, loops, and file handling.
+
+## Disclaimer
+
+This code has no advanced error handling or professional code organization. It is 100% an experiment from someone who is just starting (I'm in my second week learning Python).
